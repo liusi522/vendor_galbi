@@ -26,4 +26,4 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libTimeService
 
-$(call inherit-product, vendor/lge/g2-common/g2-common-vendor-blobs.mk)
+$(call inherit-product, vendor/galbi/g2-common/g2-common-vendor-blobs.mk)
